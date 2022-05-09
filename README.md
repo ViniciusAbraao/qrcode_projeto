@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://viniciusabraao.github.io/qrcode_projeto/)
+- Live Site URL: [https://viniciusabraao.github.io/qrcode_projeto/]
 
 ## My process
 
